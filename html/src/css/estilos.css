@@ -1,0 +1,23 @@
+.basico{
+    background-color: aqua;
+    display: relative;
+    width: 300px;
+    height: 600px;
+}
+
+
+.basico > ul > li {
+
+            list-style: none;
+
+}
+
+.premium {
+    text-align: center;
+
+}
+
+.empresarial {
+    text-align: center;
+
+}
