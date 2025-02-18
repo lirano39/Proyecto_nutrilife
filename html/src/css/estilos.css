@@ -1,4 +1,4 @@
-.basico{
+.basico {
     background-color: aqua;
     display: relative;
     width: 300px;
@@ -8,7 +8,7 @@
 
 .basico > ul > li {
 
-            list-style: none;
+     list-style: none;
 
 }
 
